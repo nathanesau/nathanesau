@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=nathanesau&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanesau&layout=compact&hide_border=true&langs_count=10&hide=html,css">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanesau&layout=compact&hide_border=true&langs_count=10&hide=html,css,tex">
 </p>
 
 <!--
