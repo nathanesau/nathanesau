@@ -9,6 +9,10 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanesau&layout=compact&hide_border=true&langs_count=10&hide=html,css,tex">
 </p>
 
+## Alt Accounts
+
+[nathanesau-tutorials](https://github.com/nathanesau-tutorials), [nathanesau-academic](https://github.com/nathanesau-academic), [nathanesau-competitive](https://github.com/nathanesau-competitive), [nathanesauWIP](https://github.com/nathanesauWIP)
+
 <!--
 **nathanesau/nathanesau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
