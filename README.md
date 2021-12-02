@@ -1,4 +1,4 @@
-<a href="https://nathanesau.github.io" target="_blank" rel="nofollow"><img align="right" alt="Nathan's Site" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/aboutdotme.svg" /></a>
+<a href="https://nathanesau.github.io" target="_blank" rel="nofollow"><img align="right" alt="Nathan's Site" width="22px" src="https://nathanesau.github.io/20191026_105040.jpg" /></a>
 <a href="https://twitter.com/nathanesau" target="_blank" rel="nofollow"><img align="right" alt="Nathan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/nathanesau/" target="_blank" rel="nofollow"><img align="right" alt="Nathan's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
